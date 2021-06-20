@@ -1,0 +1,6 @@
+[alias]
+	co = checkout
+	cod = checkout develop
+[user]
+	name = Miguel Perez
+	email = miguel.perez@bideaavant.com
